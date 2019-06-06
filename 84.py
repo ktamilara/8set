@@ -1,2 +1,2 @@
 string2=input()
-print(ord(string2))
+print(order(string2))
